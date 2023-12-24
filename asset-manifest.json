@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/santaTracker/static/css/main.f1b97492.css",
-    "main.js": "/santaTracker/static/js/main.796c4411.js",
-    "static/js/787.ad850f91.chunk.js": "/santaTracker/static/js/787.ad850f91.chunk.js",
-    "index.html": "/santaTracker/index.html",
-    "main.f1b97492.css.map": "/santaTracker/static/css/main.f1b97492.css.map",
-    "main.796c4411.js.map": "/santaTracker/static/js/main.796c4411.js.map",
-    "787.ad850f91.chunk.js.map": "/santaTracker/static/js/787.ad850f91.chunk.js.map"
+    "main.css": "/santatracker/static/css/main.f1b97492.css",
+    "main.js": "/santatracker/static/js/main.f6cfcda2.js",
+    "static/js/787.ad850f91.chunk.js": "/santatracker/static/js/787.ad850f91.chunk.js",
+    "index.html": "/santatracker/index.html",
+    "main.f1b97492.css.map": "/santatracker/static/css/main.f1b97492.css.map",
+    "main.f6cfcda2.js.map": "/santatracker/static/js/main.f6cfcda2.js.map",
+    "787.ad850f91.chunk.js.map": "/santatracker/static/js/787.ad850f91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1b97492.css",
-    "static/js/main.796c4411.js"
+    "static/js/main.f6cfcda2.js"
   ]
 }
